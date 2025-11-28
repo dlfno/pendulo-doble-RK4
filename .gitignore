@@ -1,0 +1,14 @@
+# Ejecutables
+pendulo
+*.exe
+*.out
+
+# Archivos de datos
+*.dat
+
+# Archivos objeto y módulos de Fortran
+*.o
+*.mod
+
+# Archivos de sistema
+.DS_Store
