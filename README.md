@@ -78,7 +78,7 @@ Compila el código Fortran y ejecuta la simulación numérca. Esto genera el arc
 make run
 ```
 
-### 2\. Validación de Energía (¡Importante\!)
+### 2\. Validación de Energía 
 
 Verifica la calidad de la simulación. Al ser un sistema conservativo (sin fricción), la energía total debe permanecer constante.
 
