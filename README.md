@@ -72,7 +72,7 @@ El proyecto se gestiona completamente a través del `Makefile`.
 
 ### 1\. Compilar y Ejecutar
 
-Compila el código Fortran optimizado (`-O3`) y ejecuta la simulación numérca. Esto genera el archivo de datos `doble_pendulo.dat`.
+Compila el código Fortran y ejecuta la simulación numérca. Esto genera el archivo de datos `doble_pendulo.dat`.
 
 ```bash
 make run

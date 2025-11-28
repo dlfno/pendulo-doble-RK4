@@ -31,7 +31,7 @@ plot: $(DAT)
 # Generar video MP4 (requiere Python + FFmpeg)
 video: $(DAT)
 	@echo "Generando animación..."
-	python3 animate.py
+	python3 src/animate.py
 	@echo "Video generado: $(VIDEO)"
 
 # --- VALIDACIÓN FÍSICA ---
